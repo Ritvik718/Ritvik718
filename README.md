@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏻Hi, I’m @Shwetank8<br>👀 I’m interested in Full-Stack Web Development<br>📫 How to reach me - ritvikranjan23@gmail.com
+👋🏻Hi, I’m Ritvik<br>👀 I’m interested in Full-Stack Web Development<br>📫 How to reach me - ritvikranjan23@gmail.com
 
 
 ## 🌐 Socials:
